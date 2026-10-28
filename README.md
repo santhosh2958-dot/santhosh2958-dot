@@ -1,15 +1,17 @@
+# 👋 Hi there, I'm Santhosh Kumar!
 
 <div align="center">
 
-# 👋 Hi there, I'm Santhosh!
+### 🐧 Linux | ☁️ AWS Cloud | 🚀 DevOps Engineering
 
-### 🐧 Linux | ☁️ AWS Cloud | 🚀 DevOps Learning Journey
+**Learning by doing. Automating with purpose. Building real-world solutions.**
 
-💻 Passionate about Linux Administration, Cloud Computing, Automation and DevOps.
+I am building my technical skills through hands-on projects, practical labs, automation, troubleshooting, and structured documentation.
 
-🎯 My Goal: Learn, Practice, Automate and Build Real-World DevOps Solutions.
-
-📚 Documenting my learning journey through GitHub repositories, hands-on labs and practical projects.
+[![GitHub](https://img.shields.io/badge/GitHub-santhosh2958--dot-181717?style=for-the-badge&logo=github)](https://github.com/santhosh2958-dot)
+[![Linux](https://img.shields.io/badge/Linux-Learning-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+[![AWS](https://img.shields.io/badge/AWS-Cloud-232F3E?style=for-the-badge&logo=amazonwebservices)](https://aws.amazon.com/)
+[![Python](https://img.shields.io/badge/Python-Automation-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
 </div>
 
@@ -17,32 +19,33 @@
 
 ## 👨‍💻 About Me
 
-- 🐧 Learning Linux system administration and troubleshooting.
-- ☁️ Exploring AWS Cloud services and architecture.
-- 🚀 Building my knowledge in DevOps tools and automation.
-- 💻 Practicing Bash scripting, Python and Git.
-- 🛠️ Working on hands-on Linux and AWS projects.
-- 📚 Maintaining detailed technical notes for revision and interview preparation.
-- 🎯 Focused on developing practical cloud and DevOps engineering skills.
+- 🐧 Learning Linux administration, filesystem management, permissions, and troubleshooting.
+- ☁️ Exploring AWS services, cloud infrastructure, networking, and security.
+- 🚀 Developing practical knowledge of DevOps tools and workflows.
+- 💻 Practicing Python and Bash scripting for automation.
+- 🔄 Learning Git, GitHub, CI/CD, and infrastructure automation.
+- 🛠️ Building hands-on projects using Linux and AWS EC2.
+- 📚 Documenting technical concepts in structured notes for revision and interview preparation.
+- 🎯 Focused on becoming a skilled cloud and DevOps engineer through continuous practice.
+
+> My approach: Understand the fundamentals, practice in a real environment, troubleshoot issues, document the solution, and automate repetitive tasks.
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
 ### 🐧 Operating Systems
-
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Red Hat](https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+![Red Hat Enterprise Linux](https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
 
-### ☁️ Cloud Technologies
-
+### ☁️ Cloud & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Amazon EC2](https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=black)
+![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-### 🚀 DevOps Tools
-
+### 🚀 DevOps & Version Control
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -51,11 +54,11 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
-### 💻 Scripting & Automation
-
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+### 💻 Programming & Automation
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Cron](https://img.shields.io/badge/Cron-Scheduling-4A5568?style=for-the-badge)
 
 ---
 
@@ -65,17 +68,17 @@
 
 [![Linux DevOps Notes](https://img.shields.io/badge/Explore-Linux_DevOps_Notes-blue?style=for-the-badge&logo=github)](https://github.com/santhosh2958-dot/Linux-DevOps-Notes)
 
-A complete learning repository covering:
+A structured knowledge base for learning and revising Linux and DevOps concepts.
 
+**Topics include:**
 - Linux fundamentals and architecture
-- Linux filesystem and essential commands
-- User and group management
-- File permissions and ownership
+- Filesystem structure and essential commands
+- Users, groups, permissions, and ownership
+- Processes, services, and system administration
 - Bash scripting and automation
-- Advanced Linux commands
-- System administration and troubleshooting
-- DevOps learning roadmap
-- Interview questions and answers
+- Troubleshooting and log analysis
+- DevOps fundamentals and learning roadmap
+- Interview preparation notes
 
 **Repository:** [Linux-DevOps-Notes](https://github.com/santhosh2958-dot/Linux-DevOps-Notes)
 
@@ -83,56 +86,85 @@ A complete learning repository covering:
 
 [![AWS Notes](https://img.shields.io/badge/Explore-AWS_Learning_Notes-orange?style=for-the-badge&logo=amazonwebservices)](https://github.com/santhosh2958-dot/AWS-Complete-Learning-Notes)
 
-A structured AWS learning repository covering:
+A practical learning resource for AWS cloud services and infrastructure.
 
+**Topics include:**
 - Cloud computing fundamentals
-- AWS account creation and billing
-- AWS Console and CLI
-- Regions and Availability Zones
-- IAM and security
-- EC2 and Linux web servers
-- AMIs, EBS and snapshots
-- VPC networking and S3
+- AWS global infrastructure: Regions and Availability Zones
+- IAM, access management, and security
+- EC2 instances and Linux web servers
+- EBS volumes, AMIs, and snapshots
+- VPC, subnets, route tables, and security groups
+- S3 storage and AWS CLI
 - Load Balancers and Auto Scaling
-- CloudWatch and CloudTrail
-- AWS Systems Manager
-- Lambda and serverless
+- CloudWatch monitoring and CloudTrail
+- Systems Manager, Lambda, and serverless
 - CloudFront and Route 53
-- Terraform and containers
-- AWS Bedrock and AI fundamentals
-- Hands-on projects and interview preparation
+- Terraform, containers, and AI fundamentals
+- Hands-on exercises and interview preparation
 
 **Repository:** [AWS-Complete-Learning-Notes](https://github.com/santhosh2958-dot/AWS-Complete-Learning-Notes)
 
 ---
 
-## 🧪 Hands-on Projects & Practice
+## 🚀 Hands-on Projects
 
-| Project | Technologies |
-|---|---|
-| Linux System Health Report | Linux, Bash |
-| File Backup Automation | Bash, tar, cron |
-| Disk Usage Monitoring | Linux, Bash |
-| Linux Driver Validation | Python, Linux |
-| AWS EC2 Web Server | AWS EC2, Ubuntu, Nginx |
-| S3 Backup Practice | AWS S3, AWS CLI |
-| Cloud Infrastructure Practice | AWS, Terraform |
-| Container Deployment Practice | Docker, Kubernetes |
+| Project | Technologies | Learning Focus |
+|---|---|---|
+| [EC2 Server Health Monitor](https://github.com/santhosh2958-dot/aws-ec2-server-health-monitor) | Python, Linux, AWS EC2, Cron | Automated server health reporting |
+| Linux System Health Report | Linux, Bash | System information and health checks |
+| File Backup Automation | Bash, `tar`, Cron | Scheduled backups |
+| Disk Usage Monitoring | Linux, Bash | Disk capacity monitoring |
+| Linux Driver Validation | Python, Linux | Automated driver and file validation |
+| AWS EC2 Web Server | AWS EC2, Ubuntu, Nginx | Web server deployment |
+| S3 Backup Practice | Amazon S3, AWS CLI | Cloud storage and backup |
+| Cloud Infrastructure Practice | AWS, Terraform | Infrastructure as Code |
+| Container Deployment Practice | Docker, Kubernetes | Containerization fundamentals |
 
-> These are learning and practice projects. I will continue updating them as I complete hands-on exercises.
+> These projects represent my learning and practice activities. I will continue improving the documentation and adding implementation details as I progress.
+
+### ⭐ Featured Project: EC2 Server Health Monitor
+
+My goal is to build a practical monitoring solution that automatically collects essential Linux server metrics on an AWS EC2 instance.
+
+**Planned capabilities:**
+- Collect hostname, disk usage, memory usage, and CPU load average.
+- Generate a readable health report.
+- Run the monitoring script automatically every five minutes using Cron.
+- Maintain logs for troubleshooting and verification.
+- Extend the project with a dashboard that displays the latest report.
+
+**Architecture:**
+
+```mermaid
+flowchart TD
+    A[AWS EC2 - Ubuntu] --> B[Python Health Monitor]
+    B --> C[Collect System Metrics]
+    C --> D[Generate Health Report]
+    D --> E[Cron Scheduler]
+    E -->|Every 5 Minutes| B
+    D --> F[Logs and Report Files]
+    F -. Future Enhancement .-> G[Web Dashboard]
+```
+
+**Current learning focus:** Linux monitoring, Python automation, Cron scheduling, log management, and AWS EC2 administration.
+
+**Project repository:** [aws-ec2-server-health-monitor](https://github.com/santhosh2958-dot/aws-ec2-server-health-monitor)
 
 ---
 
 ## 📚 Currently Learning
 
-- 🐧 Linux administration and advanced commands
-- ☁️ AWS architecture and cloud services
-- 💻 Bash and Python automation
-- 🌿 Git and GitHub
+- 🐧 Linux administration and troubleshooting
+- ☁️ AWS cloud architecture and core services
+- 🐍 Python scripting and automation
+- 💻 Bash scripting and essential Linux commands
+- 🌿 Git and GitHub workflows
 - 🐳 Docker and containerization
 - ☸️ Kubernetes fundamentals
-- 🏗️ Terraform Infrastructure as Code
-- 🔄 CI/CD and DevOps practices
+- 🏗️ Terraform and Infrastructure as Code
+- 🔄 CI/CD pipelines and DevOps practices
+- 📈 Monitoring, logging, and operational automation
 
 ---
 
@@ -140,31 +172,38 @@ A structured AWS learning repository covering:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=santhosh2958-dot&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=santhosh2958-dot&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=santhosh2958-dot&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=santhosh2958-dot&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
-> GitHub statistics are displayed using a third-party service and may sometimes be unavailable.
+*GitHub statistics are generated by a third-party service and may occasionally be unavailable. Language statistics reflect repository contents, not necessarily overall proficiency.*
 
 ---
 
 ## 🌱 My Learning Philosophy
 
-**Learn → Practice → Troubleshoot → Document → Automate → Build**
+<div align="center">
 
-I believe that continuous learning and hands-on practice are the foundations of strong technical skills.
+### Learn → Practice → Troubleshoot → Document → Automate → Build
 
-My focus is on understanding every concept, practicing it in real environments and documenting what I learn.
+</div>
+
+I believe that strong technical skills come from understanding fundamentals and applying them in practical environments.
+
+Every project is an opportunity to learn something new, solve a problem, improve documentation, and build confidence.
+
+I focus on steady progress rather than shortcuts—one command, one concept, and one project at a time.
 
 ---
 
 ## 📫 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/santhosh2958-dot)
+- **GitHub:** [@santhosh2958-dot](https://github.com/santhosh2958-dot)
+- **Learning repositories:** [Linux & DevOps Notes](https://github.com/santhosh2958-dot/Linux-DevOps-Notes) · [AWS Learning Notes](https://github.com/santhosh2958-dot/AWS-Complete-Learning-Notes)
 
-<!-- Add LinkedIn and email links here when ready. -->
+<!-- Add your LinkedIn profile and professional email here when ready. -->
 
 ---
 
@@ -172,6 +211,6 @@ My focus is on understanding every concept, practicing it in real environments a
 
 ### ⭐ Keep Learning | Keep Practicing | Keep Growing
 
-**Building my Linux, AWS and DevOps skills one step at a time. 🚀**
+**Building my Linux, AWS, Python, and DevOps skills one step at a time. 🚀**
 
 </div>
